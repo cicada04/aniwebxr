@@ -1,2 +1,3 @@
 # aniwebxr
-This is first webxr project
+This is first webxr project of animals animation
+
